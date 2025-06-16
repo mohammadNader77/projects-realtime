@@ -1,6 +1,6 @@
 # ENCS4330 - Real-Time Applications & Embedded Systems
 
-This repository contains the source code and simulations for the three projects under the **ENCS4330 - Real-Time Applications & Embedded Systems** course, at **Birzeit University**, Faculty of Engineering and Technology. Below are the details of each project.
+This repository contains the source code and simulations for the three projects under the **ENCS4330 - Real-Time Applications & Embedded Systems** course, Below are the details of each project.
 
 ## Projects Overview
 
