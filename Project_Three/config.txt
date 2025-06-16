@@ -1,0 +1,36 @@
+# config.txt
+
+# Number of Counter Espionage Agency Members
+agency_members=5
+
+# Time interval (in seconds) to create resistance groups
+group_creation_interval=10
+
+# Resistance group size range
+group_size_min=5
+group_size_max=10
+
+# Percentage of military-type groups (e.g., 30 means 30% are military)
+military_group_percentage=30
+
+# Spy infiltration probability (%)
+spy_infiltration_probability=20
+
+# Probability threshold for groups being targeted if infiltrated
+target_probability=0.7
+
+# Recovery periods based on injury level (in seconds)
+recovery_light=5
+recovery_severe=10
+
+# Spy suspicion threshold
+suspicion_threshold=0.5
+
+# Arresting thresholds
+arrest_release_threshold=0.3
+arrest_imprison_threshold=0.7
+
+# Termination thresholds
+max_killed=20
+max_injured=50
+agency_time_limit=100

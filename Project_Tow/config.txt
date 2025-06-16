@@ -1,0 +1,17 @@
+# config.txt
+file_generators=5
+calculators=2
+inspectors_type1=2
+inspectors_type2=2
+inspectors_type3=2
+gen_interval=1,5
+rows=1000,10000
+columns=5,15
+value_range=1.0,100.0
+missing_percentage=5.0
+threshold_files_processed=100
+threshold_files_not_processed=50
+threshold_files_backup=200
+threshold_files_deleted=100
+runtime_limit_minutes=60
+type1_threshold_age=10
